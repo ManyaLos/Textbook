@@ -1,2 +1,4 @@
-manager smirnov ivan 9111998 +79553884653 ivanov
-manager ivanov alex 10121990 89646465323 kjhfjh
+employee ivanov ivan 08.10.1998 89646465324 smirnov
+employee smirnov ivan 09.12.1998 +79553884653 ivanov
+manager prosvirin alex 06.06.1989 +79563884653 ivanov
+manager alabama abba 07.04.1999 89676765323 mhgfx
